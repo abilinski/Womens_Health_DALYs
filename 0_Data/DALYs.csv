@@ -1,0 +1,15 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,604,Uterine fibroids,1,Number,2021,142884.8324,192988.0553,102182.7929
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,605,Polycystic ovarian syndrome,1,Number,2021,607756.8655,1268607.216,272745.1546
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,606,Female infertility,1,Number,2021,601133.5006,1468475.007,213157.9705
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,607,Endometriosis,1,Number,2021,2049472.655,3133967.046,1195196.693
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,608,Genital prolapse,1,Number,2021,389357.96,731017.1625,191055.0021
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,609,Premenstrual syndrome,1,Number,2021,8110853.117,12364434.94,4920019.629
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,612,Other gynecological diseases,1,Number,2021,15836176.96,22274733.39,10799764.36
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,604,Uterine fibroids,1,Number,2021,3583.244952,5418.847536,2443.984824
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,605,Polycystic ovarian syndrome,1,Number,2021,53388.06355,107618.8138,24521.80631
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,606,Female infertility,1,Number,2021,8024.601144,25096.93964,976.396771
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,607,Endometriosis,1,Number,2021,48129.18805,73498.08596,29693.38027
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,608,Genital prolapse,1,Number,2021,25163.13215,47341.64572,12446.0262
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,609,Premenstrual syndrome,1,Number,2021,298393.1888,447819.8814,182245.776
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,612,Other gynecological diseases,1,Number,2021,394676.9075,553332.4486,271425.549
